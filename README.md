@@ -13,8 +13,9 @@ Participants
 
 Karthik B(RVCE24MCA052)
 Kishan S(RVCE24MCA053)
-Swastik devadiga
-Sandharsh
+Swastik Devadiga(RVCE24MCA117/1RV24MC108)
+Sandharsh J N(RVCE24MCA032/1RV24MC093)
+S S Dhanush(RVCE24MCA022/1RV24MC087)
 
 
 vedio of Kishan
