@@ -65,7 +65,8 @@ This repository contains solutions to various **Skill Lab Assignment** problems 
 This project was developed and maintained by:  
 - [Kishan S](https://github.com/Kishankharvi)  
 - [Swastik Devadiga](https://github.com/swastikdevadiga1)  
-- [Karthik B](https://github.com/karthikb1010)  
+- [Karthik B](https://github.com/karthikb1010)
+- {sandarsh](https://github.com/Sandarsh18)
 
 ## **How to Contribute?**  
 Feel free to contribute to this repository! You can:  
