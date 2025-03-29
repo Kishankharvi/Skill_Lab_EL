@@ -16,40 +16,33 @@ This repository contains solutions to various **Skill Lab Assignment** problems 
 ## **Assignment Questions & Concepts Covered**  
 
 1. **Find the row with the maximum number of 1’s in a binary matrix**  
-   - **Concepts:** Binary Search, Matrix Traversal, Time Complexity Optimization  
-   - **Approach:** Optimized using Binary Search for O(log n) complexity instead of brute force O(n).  
+   - **Concepts:** Matrix Traversal, Time Complexity Optimization  
 
 2. **Reverse a given string**  
-   - **Concepts:** String Manipulation, Recursion, Stack  
-   - **Approach:** Implemented using both iterative (two-pointer technique) and recursive methods.  
+   - **Concepts:** String Manipulation
 
 3. **Find the first and last positions of an element in a sorted array**  
-   - **Concepts:** Binary Search, Divide and Conquer  
-   - **Approach:** Utilized **Modified Binary Search** to achieve O(log n) efficiency.  
+   - **Concepts:** Binary Search, Divide and Conquer    
 
 4. **Delete a node from a circular linked list**  
    - **Concepts:** Circular Linked List, Pointers, Edge Case Handling  
-   - **Approach:** Implemented deletion for head, middle, and tail nodes, ensuring proper linking.  
 
 5. **Compute the right view of a binary tree**  
    - **Concepts:** Tree Traversal, Level Order Traversal, BFS  
-   - **Approach:** Used **Breadth-First Search (BFS)** with a queue to capture right-most nodes at each level.  
 
 6. **Search for a value in a Binary Search Tree (BST)**  
    - **Concepts:** Binary Search Tree, Recursion, Tree Traversal  
-   - **Approach:** Implemented both recursive and iterative search algorithms with O(log n) complexity.  
 
 7. **Reverse a queue using recursion**  
-   - **Concepts:** Queue Data Structure, Recursion, Stack-Based Approach  
-   - **Approach:** Used **recursive stack unwinding** to reverse the queue in-place.  
+   - **Concepts:** Queue Data Structure, Recursion, Stack-Based Approach 
 
 ## **Technologies Used**  
-- **Programming Language:** Java / C++ / Python (Specify based on your implementation)  
+- **Programming Language:**  C/ Python (Specify based on your implementation)  
 - **Data Structures:** Arrays, Strings, Linked Lists, Trees, Queues  
 - **Algorithms:** Binary Search, BFS, Recursion, Stack Operations  
 
 ## **Participants**  
-- **Karthik B** (RVCE24MCA052)  
+- **Karthik B** (RVCE24MCA052/ 1RV24MC051)  
 - **Kishan S** (RVCE24MCA053 / 1RV24MC055)  
 - **Swastik Devadiga** (RVCE24MCA117 / 1RV24MC108)  
 - **Sandharsh J N** (RVCE24MCA032 / 1RV24MC093)  
@@ -57,7 +50,7 @@ This repository contains solutions to various **Skill Lab Assignment** problems 
 
 ## **Project Resources**  
 - **Kishan’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1fd0nXD2AImU4n6BQqnHcBUAc7Z7x1sPt?usp=drive_link)  
-- **Karthik’s Video:** (Link missing)  
+- **Karthik’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1PTc_ysArXuD_Yu4rN0zMTLFPjppIYs4l)
 - **Swastik’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1Y67LeNUjyz_HFSXwRouG4wr01XpOjn)
 - **Sandarsh :** [Google Drive Link](https://drive.google.com/drive/folders/1LEXU6RfoE2XzBXNmNMPgF7Nt8xsmMfrR?usp=sharing)
 - **S S Dhanush :**[Google Drive Link](https://drive.google.com/drive/folders/17e38iZC1kqdsPzSSK6EkYmDtAyMEaVzB)
@@ -70,10 +63,4 @@ This project was developed and maintained by:
 - [Sandarsh J N](https://github.com/Sandarsh18)
 - [S S Dhanush](https://github.com/dhanush6701)
 
-## **How to Contribute?**  
-Feel free to contribute to this repository! You can:  
-- Improve existing solutions.  
-- Optimize algorithms for better performance.  
-- Add test cases to verify correctness.  
 
-For any queries, reach out to the contributors. 🚀
