@@ -51,7 +51,7 @@ This repository contains solutions to various **Skill Lab Assignment** problems 
 ## **Project Resources**  
 - **Kishan’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1Fd0nXD2AImU4n6BOqnHcBUAc7Z7x1sPt)  
 - **Karthik’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1PTc_ysArXuD_Yu4rN0zMTLFPjppIYs4l)
-- **Swastik’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1Y67LeNUjyz_HFSXwRouG4wr01XpOjn)
+- **Swastik’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1Y67LeNUjyz__HFSXwRou6G4wr01XpOjn)
 - **Sandarsh :** [Google Drive Link](https://drive.google.com/drive/folders/1LEXU6RfoE2XzBXNmNMPgF7Nt8xsmMfrR?usp=sharing)
 - **S S Dhanush :**[Google Drive Link](https://drive.google.com/drive/folders/17e38iZC1kqdsPzSSK6EkYmDtAyMEaVzB)
 
