@@ -49,7 +49,7 @@ This repository contains solutions to various **Skill Lab Assignment** problems 
 - **S S Dhanush** (RVCE24MCA022 / 1RV24MC087)  
 
 ## **Project Resources**  
-- **Kishan’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1fd0nXD2AImU4n6BQqnHcBUAc7Z7x1sPt?usp=drive_link)  
+- **Kishan’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1Fd0nXD2AImU4n6BOqnHcBUAc7Z7x1sPt)  
 - **Karthik’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1PTc_ysArXuD_Yu4rN0zMTLFPjppIYs4l)
 - **Swastik’s Video:** [Google Drive Link](https://drive.google.com/drive/folders/1Y67LeNUjyz_HFSXwRouG4wr01XpOjn)
 - **Sandarsh :** [Google Drive Link](https://drive.google.com/drive/folders/1LEXU6RfoE2XzBXNmNMPgF7Nt8xsmMfrR?usp=sharing)
