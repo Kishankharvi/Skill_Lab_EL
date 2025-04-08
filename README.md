@@ -42,7 +42,7 @@ This repository contains solutions to various **Skill Lab Assignment** problems 
 - **Algorithms:** Binary Search, BFS, Recursion, Stack Operations  
 
 ## **Participants**  
-- **Karthik B** (RVCE24MCA052/ 1RV24MC051)  
+- **Karthik B** (RVCE24MCA054/ 1RV24MC051)  
 - **Kishan S** (RVCE24MCA053 / 1RV24MC055)  
 - **Swastik Devadiga** (RVCE24MCA117 / 1RV24MC108)  
 - **Sandharsh J N** (RVCE24MCA032 / 1RV24MC093)  
